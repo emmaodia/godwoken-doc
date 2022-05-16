@@ -1,0 +1,22 @@
+{
+  "sidebar2": [
+    {
+      "Introduction": [
+        "overview",
+        "decentralizationRoadmap"
+      ]
+    },
+
+    {
+      "Deployment": [
+		"godwokenkicker",
+        "deployLocalNetwork"
+      ]
+    },
+	"deployContractHardhat",
+	"integration",
+	"lightGodwoken",
+    "releaseNote",
+    "faq"
+  ]
+}
